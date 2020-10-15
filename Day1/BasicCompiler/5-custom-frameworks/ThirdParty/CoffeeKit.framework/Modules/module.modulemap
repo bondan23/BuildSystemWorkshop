@@ -1,0 +1,6 @@
+framework module CoffeeKit {
+  umbrella header "CoffeeKit.h"
+
+  export *
+  module * { export * }
+}
